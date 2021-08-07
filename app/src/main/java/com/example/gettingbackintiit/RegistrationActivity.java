@@ -21,7 +21,7 @@ public class RegistrationActivity extends AppCompatActivity {
         email = findViewById(R.id.email);
         password = findViewById(R.id.password);
         registerBTN = findViewById(R.id.loginBTN);
-        registerQn = findViewById(R.id.loginQn);
+        registerQn = findViewById(R.id.registerQn);
 
         registerQn.setOnClickListener(new View.OnClickListener() {
             @Override
