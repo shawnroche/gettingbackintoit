@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">getting back inti it</string>
+    <string name="app_name">getting back into it</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="dont_have_an_account_sign_up">Dont have an account? Sign Up</string>
+    <string name="log_in">Log In</string>
 </resources>
