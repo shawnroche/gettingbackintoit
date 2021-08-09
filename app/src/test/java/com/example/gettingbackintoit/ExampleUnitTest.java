@@ -1,4 +1,4 @@
-package com.example.gettingbackintiit;
+package com.example.gettingbackintoit;
 
 import org.junit.Test;
 

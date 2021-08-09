@@ -1,4 +1,4 @@
-package com.example.gettingbackintiit;
+package com.example.gettingbackintoit;
 
 import android.content.Intent;
 import android.os.Handler;
